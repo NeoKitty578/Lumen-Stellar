@@ -13,17 +13,17 @@ The goal of the website is to provide valuable information and engages with user
 Timeline and Milestones:
 Part1 will be done right before the 20 April 2026, which is the proposal and the html for the website. The Part 2, this is the CSS will be done before the 29 of May 2026. Then the last part of the website, which is the JavaScript, will be done before the 19nth of June 2026.
 
-Things i have changed after the first submission (Part 1):
--I have updated the timeline on my proposal 1
--I added more under the dropdowns, i even added more of the dropdowns
--I added comments, more comments
--I have added the div to help me separate and section my work for CSS and to make my life easier
--I added CSS for the infoscience page so far.
--The CSS contains background colors, i have my own pseudoclasses, there's hover effects
--I added way more pictures since i have added new informatinon, they have their own pictures to fit the aesthetics
--I have added the meta... to fit for any screensize for my pages.
--I have used html or added html symbols such as the copywright symbol
--
+Things i have changed since Part 1
+I have updated the timeline on my proposal 1
+I added more under the dropdowns, i even added more of the dropdowns
+I added comments, more comments
+I added comments, more comments
+I have added the div to help me separate and section my work for CSS and to make my life easier
+I added CSS for the infoscience page so far.
+The CSS contains background colors, i have my own pseudoclasses, there's hover effects
+I added way more pictures since i have added new informatinon, they have their own pictures to fit the aesthetics
+I have added the meta... to fit for any screensize for my pages.
+I have used html or added html symbols such as the copywright symbol.
 
 
 Sitemap:
